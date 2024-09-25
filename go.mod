@@ -1,10 +1,11 @@
-module github.com/tomaslobato/goact
+module github.com/tomaslobato/opusk
 
 go 1.23.1
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/joho/godotenv v1.5.1
+	github.com/tomaslobato/goact v0.0.0-20240925015740-d2404dcfa41b
 )
 
 require (

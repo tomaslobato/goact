@@ -6,4 +6,5 @@ Golang Fiber + React template for creating web apps.
 - Run `air` to start the dev server hosting your files and backend routes.
 
 future:
+- CLI option to run go mod init with it's own name
 - automatic deployment to AWS with user keys
